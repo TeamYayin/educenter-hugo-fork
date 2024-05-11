@@ -1,12 +1,12 @@
 <h1 align=center>Educenter Hugo</h1> 
 <p align=center> Educenter is a Hugo theme designed specifically for educational websites. This sleek theme is packed with all the elements that you need to show info about your school, courses, instructors, announcements, and more. </p>
 
-<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/educenter" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Feducenter%2Fsite%2F&form_factor=desktop">Page Speed (96%)</a></h2>
+<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/educenter" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Feducenter%2Fsite%2F&form_factor=desktop">Page Speed (96%)🚀</a></h2>
 
 
 <p align=center>
-  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.70.0" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.70.0&color=f00&logo=hugo" />
+  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.115.1" alt="Contributors">
+    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.115.1&color=f00&logo=hugo" />
   </a>
 
   <a href="https://github.com/themefisher/educenter-hugo/blob/master/LICENSE">
@@ -29,68 +29,80 @@
 </p>
 
 ---
-## Key Features
-- Multiple language support (Fr, En) 
-- Google analytics  support
-- CSS and Js bundle with hugo pipe
-- Netlify settings predefine
-- Forestry cms pre-configured
-- Multiple author available
-- Contact form Support
-- Mailchimp integrate
-- GDPR consent enable
-- Google map support
-- Top header customization
-- Taxonomy or category
-- Google page speed optimized
-- Open graph meta tag
-- Twitter card meta tag
+## 📌Key Features
+
+-  📄 19+ Pre-designed pages
+-  📚Multiple language support (Fr, En) 
+- 〽️Google analytics  support 
+-  📂CSS and Js bundle with hugo pipe
+-  🔧Netlify settings predefine
+-  👥Multiple author available
+-  📝Contact form Support
+-  📧Mailchimp integrate
+-  👉GDPR consent enable
+-  🌏Google map support
+-  📰Top header customization
+-  🗃️Taxonomy or category
+-  ⚡Google page speed optimized
+-  🧑‍💻Open graph meta tag
+-  👉Twitter card meta tag
+-  🌐Social Share
+
+## 📄 19+ Pre-Designed Pages
+
+- 🏠Home
+- 👤About
+- 👤Author Single Page
+- 📗Course Page
+- 📗Course Single Page
+- 🗂️Categories
+- 🗂️Category Single
+- 📝Blog
+- 📝Blog Single
+- 📞Contact
+- 📆Event Page 
+- 📆Event single Page
+- 📄Notice Page
+- 📄Notice Single Page
+- 📑Research Page 
+- 📑Research Single Page
+- 👑Scholarship Page
+- 🧑‍💼Teacher Page
+- 🧑‍💼Teacher Single Page 
+- 📖404 Page
 
 
-## Local development
+## 🛠️Local development
 
 ```bash
 # clone the repository
 git clone git@github.com:themefisher/educenter-hugo.git
 
-# cd in the project directory
-$ cd educenter-hugo/exampleSite/
+# setup project
+$ npm run project-setup
 
 # Start local dev server
-$ hugo server --themesDir ../..
+$ npm run dev
 ```
 Or Check out [Full Documentation](https://docs.gethugothemes.com/educenter/?ref=github).
 
-## Content Management System
 
-[![import to
-Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/educenter-hugo&engine=hugo&version=0.87.0)
-
-This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your
-repository in Forestry](https://app.forestry.io/quick-start?repo=themefisher/educenter-hugo&engine=hugo&version=0.87.0) and
-you will be able to edit and preview your site ✨.
-
-Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
-## Deployment and hosting
+## 🔧Deployment and hosting
 
 [![Deploy to
 Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/themefisher/educenter-hugo)
 
 Follow the steps.
 
-## Prefer a video? (Hugo + Netlify + Forestry)
-Build your website with **Educenter Hugo** theme by following these easy steps (No Coding Required!)
-[Video Tutorial](https://youtu.be/ResipmZmpDU).
-
 <!-- reporting issue -->
-## Reporting Issues
+## 🐞Reporting Issues
 We use GitHub Issues as the official bug tracker for the Educenter  Template. Please Search [existing
 issues](https://github.com/themefisher/educenter-hugo/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/themefisher/educenter-hugo/issues).
 
 
- ## Submit Your Website To Our Showcase
+ ## 📱Submit Your Website To Our Showcase
 
 Are you using Educenter Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
 
@@ -101,7 +113,7 @@ View all the websites powered by Educenter Hugo from [here](https://gethugotheme
 [Submit](https://gethugothemes.com/showcase?submit=show) your Educenter Hugo powered website.
 
 <!-- licence -->
-## License
+## 📝License
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
 [Gethugothemes](https://gethugothemes.com)
 
@@ -111,7 +123,7 @@ Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed 
 share those images.
 
 <!-- resources -->
-## Special Thanks
+## 👍Special Thanks
 - [Bootstrap](https://getbootstrap.com)
 - [Jquery](https://jquery.com)
 - [Themify Icons](https://themify.me/themify-icons)
@@ -122,14 +134,14 @@ share those images.
 - [All Contributors](https://github.com/themefisher/educenter-hugo/graphs/contributors)
 
 
-## Hire Us
+## 👨‍💻Hire Us
 Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo. 
 
 If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our 
 [Services](https://gethugothemes.com/services/?utm_source=educenter_github&utm_medium=referral&utm_campaign=github_theme_readme)**
 
 <!-- premium themes -->
-## Premium Themes By Us
+## 🔥Premium Themes By Us
 | [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=educenter_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.png)](https://gethugothemes.com/products/bizcraft/) | [![Meghna](https://demo.gethugothemes.com/thumbnails/bexer.png)](https://gethugothemes.com/products/bexer/) |
 |:---:|:---:|:---:|
 | **Get 55+ Premium Hugo Themes Bundle** | **Bizcraft** | **Bexer** |
